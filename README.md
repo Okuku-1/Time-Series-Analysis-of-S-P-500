@@ -1,4 +1,4 @@
-## &P 500 Time Series Analysis with ARIMA
+## S&P 500 Time Series Analysis with ARIMA
 This repository contains a comprehensive analysis of the S&P 500 Index from 2000 to 2023 using ARIMA (AutoRegressive Integrated Moving Average) modeling. The project demonstrates time series data preprocessing, model fitting, diagnostics, and forecasting.
 
 ## Project Overview
